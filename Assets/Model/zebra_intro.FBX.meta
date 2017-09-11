@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 1440a639ca20d314585c95991320cab6
+timeCreated: 1505006873
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: eyelids
+    100002: zebra002
+    100004: //RootNode
+    100006: ZebraEarL1
+    100008: ZebraEarL2
+    100010: ZebraEarR1
+    100012: ZebraEarR2
+    100014: ZebraEyebrowL
+    100016: ZebraEyebrowR
+    100018: ZebraEyeL
+    100020: ZebraEyelidL
+    100022: ZebraEyelidR
+    100024: ZebraEyeR
+    100026: ZebraHair
+    100028: ZebraHead
+    100030: ZebraLCalf
+    100032: ZebraLCollarbone
+    100034: ZebraLFoot
+    100036: ZebraLForearm
+    100038: ZebraLPalm
+    100040: ZebraLThigh
+    100042: ZebraLUpperarm
+    100044: ZebraMouthCornerL
+    100046: ZebraMouthCornerR
+    100048: ZebraMouthDown
+    100050: ZebraMouthUp
+    100052: ZebraNeck1
+    100054: ZebraNeck2
+    100056: ZebraNeck3
+    100058: ZebraNeck4
+    100060: ZebraPelvis
+    100062: ZebraRCalf
+    100064: ZebraRCollarbone
+    100066: ZebraRFoot
+    100068: ZebraRForearm
+    100070: ZebraRibcage
+    100072: ZebraRPalm
+    100074: ZebraRThigh
+    100076: ZebraRUpperarm
+    100078: ZebraSpine1
+    100080: ZebraSpine2
+    100082: ZebraSpine3
+    100084: ZebraSpine4
+    100086: ZebraTail1
+    100088: ZebraTail2
+    100090: ZebraTail3
+    100092: ZebraTail4
+    100094: ZebraTail5
+    400000: eyelids
+    400002: zebra002
+    400004: //RootNode
+    400006: ZebraEarL1
+    400008: ZebraEarL2
+    400010: ZebraEarR1
+    400012: ZebraEarR2
+    400014: ZebraEyebrowL
+    400016: ZebraEyebrowR
+    400018: ZebraEyeL
+    400020: ZebraEyelidL
+    400022: ZebraEyelidR
+    400024: ZebraEyeR
+    400026: ZebraHair
+    400028: ZebraHead
+    400030: ZebraLCalf
+    400032: ZebraLCollarbone
+    400034: ZebraLFoot
+    400036: ZebraLForearm
+    400038: ZebraLPalm
+    400040: ZebraLThigh
+    400042: ZebraLUpperarm
+    400044: ZebraMouthCornerL
+    400046: ZebraMouthCornerR
+    400048: ZebraMouthDown
+    400050: ZebraMouthUp
+    400052: ZebraNeck1
+    400054: ZebraNeck2
+    400056: ZebraNeck3
+    400058: ZebraNeck4
+    400060: ZebraPelvis
+    400062: ZebraRCalf
+    400064: ZebraRCollarbone
+    400066: ZebraRFoot
+    400068: ZebraRForearm
+    400070: ZebraRibcage
+    400072: ZebraRPalm
+    400074: ZebraRThigh
+    400076: ZebraRUpperarm
+    400078: ZebraSpine1
+    400080: ZebraSpine2
+    400082: ZebraSpine3
+    400084: ZebraSpine4
+    400086: ZebraTail1
+    400088: ZebraTail2
+    400090: ZebraTail3
+    400092: ZebraTail4
+    400094: ZebraTail5
+    4300000: zebra002
+    4300002: eyelids
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: eyelids
+    13700002: zebra002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 5067a3f5da1ee6c4781110ec2cd9b5c0
+timeCreated: 1505006875
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: IKTarget001
+    100002: IKTarget002
+    100004: surfboard
+    100006: //RootNode
+    100008: turtleBody
+    100010: turtleEyelids
+    100012: turtleEyes
+    100014: TurtleHead
+    100016: TurtleLCalf
+    100018: TurtleLCollarbone
+    100020: TurtleLEye
+    100022: TurtleLEyebrow
+    100024: TurtleLEyelid
+    100026: TurtleLFoot
+    100028: TurtleLForearm
+    100030: TurtleLMouthCorner
+    100032: TurtleLPalm
+    100034: TurtleLThigh
+    100036: TurtleLUpperarm
+    100038: TurtleMouth
+    100040: TurtleNeck
+    100042: TurtleNose
+    100044: TurtlePelvis
+    100046: TurtleRCalf
+    100048: TurtleRCollarbone
+    100050: TurtleREye
+    100052: TurtleREyebrow
+    100054: TurtleREyelid
+    100056: TurtleRFoot
+    100058: TurtleRForearm
+    100060: TurtleRibcage
+    100062: TurtleRMouthCorner
+    100064: TurtleRPalm
+    100066: TurtleRThigh
+    100068: TurtleRUpperarm
+    100070: TurtleSpine
+    100072: turtleTeeth
+    400000: IKTarget001
+    400002: IKTarget002
+    400004: surfboard
+    400006: //RootNode
+    400008: turtleBody
+    400010: turtleEyelids
+    400012: turtleEyes
+    400014: TurtleHead
+    400016: TurtleLCalf
+    400018: TurtleLCollarbone
+    400020: TurtleLEye
+    400022: TurtleLEyebrow
+    400024: TurtleLEyelid
+    400026: TurtleLFoot
+    400028: TurtleLForearm
+    400030: TurtleLMouthCorner
+    400032: TurtleLPalm
+    400034: TurtleLThigh
+    400036: TurtleLUpperarm
+    400038: TurtleMouth
+    400040: TurtleNeck
+    400042: TurtleNose
+    400044: TurtlePelvis
+    400046: TurtleRCalf
+    400048: TurtleRCollarbone
+    400050: TurtleREye
+    400052: TurtleREyebrow
+    400054: TurtleREyelid
+    400056: TurtleRFoot
+    400058: TurtleRForearm
+    400060: TurtleRibcage
+    400062: TurtleRMouthCorner
+    400064: TurtleRPalm
+    400066: TurtleRThigh
+    400068: TurtleRUpperarm
+    400070: TurtleSpine
+    400072: turtleTeeth
+    2300000: surfboard
+    3300000: surfboard
+    4300000: turtleBody
+    4300002: turtleEyes
+    4300004: turtleEyelids
+    4300006: turtleTeeth
+    4300008: surfboard
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: turtleBody
+    13700002: turtleEyelids
+    13700004: turtleEyes
+    13700006: turtleTeeth
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

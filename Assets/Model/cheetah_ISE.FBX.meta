@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: d61fdcd569d249141b28a129df5b5b18
+timeCreated: 1505097054
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cheetahBody
+    100004: cheetahEyelids
+    100006: cheetahEyes
+    100008: CheetahHead
+    100010: CheetahLCalf
+    100012: CheetahLCollarbone
+    100014: CheetahLEar
+    100016: CheetahLEye
+    100018: CheetahLEyebrow
+    100020: CheetahLEyelid
+    100022: CheetahLFinger1
+    100024: CheetahLFinger2
+    100026: CheetahLFinger3
+    100028: CheetahLFinger4
+    100030: CheetahLFoot
+    100032: CheetahLForearm
+    100034: CheetahLMouthCorner
+    100036: CheetahLPalm
+    100038: CheetahLThigh
+    100040: CheetahLToe1
+    100042: CheetahLToe2
+    100044: CheetahLToe3
+    100046: CheetahLUpperarm
+    100048: CheetahMouth
+    100050: CheetahNeck
+    100052: CheetahNose
+    100054: CheetahPelvis
+    100056: CheetahRCalf
+    100058: CheetahRCollarbone
+    100060: CheetahREar
+    100062: CheetahREye
+    100064: CheetahREyebrow
+    100066: CheetahREyelid
+    100068: CheetahRFinger1
+    100070: CheetahRFinger2
+    100072: CheetahRFinger3
+    100074: CheetahRFinger4
+    100076: CheetahRFoot
+    100078: CheetahRForearm
+    100080: CheetahRibcage
+    100082: CheetahRMouthCorner
+    100084: CheetahRPalm
+    100086: CheetahRThigh
+    100088: CheetahRToe1
+    100090: CheetahRToe2
+    100092: CheetahRToe3
+    100094: CheetahRUpperarm
+    100096: CheetahSpine1
+    100098: CheetahSpine2
+    100100: CheetahSpine3
+    100102: CheetahSpine4
+    100104: CheetahTail1
+    100106: CheetahTail2
+    100108: CheetahTail3
+    100110: CheetahTail4
+    100112: CheetahTail5
+    100114: CheetahTail6
+    100116: CheetahTail7
+    100118: CheetahTail8
+    100120: cheetahTeeth
+    400000: //RootNode
+    400002: cheetahBody
+    400004: cheetahEyelids
+    400006: cheetahEyes
+    400008: CheetahHead
+    400010: CheetahLCalf
+    400012: CheetahLCollarbone
+    400014: CheetahLEar
+    400016: CheetahLEye
+    400018: CheetahLEyebrow
+    400020: CheetahLEyelid
+    400022: CheetahLFinger1
+    400024: CheetahLFinger2
+    400026: CheetahLFinger3
+    400028: CheetahLFinger4
+    400030: CheetahLFoot
+    400032: CheetahLForearm
+    400034: CheetahLMouthCorner
+    400036: CheetahLPalm
+    400038: CheetahLThigh
+    400040: CheetahLToe1
+    400042: CheetahLToe2
+    400044: CheetahLToe3
+    400046: CheetahLUpperarm
+    400048: CheetahMouth
+    400050: CheetahNeck
+    400052: CheetahNose
+    400054: CheetahPelvis
+    400056: CheetahRCalf
+    400058: CheetahRCollarbone
+    400060: CheetahREar
+    400062: CheetahREye
+    400064: CheetahREyebrow
+    400066: CheetahREyelid
+    400068: CheetahRFinger1
+    400070: CheetahRFinger2
+    400072: CheetahRFinger3
+    400074: CheetahRFinger4
+    400076: CheetahRFoot
+    400078: CheetahRForearm
+    400080: CheetahRibcage
+    400082: CheetahRMouthCorner
+    400084: CheetahRPalm
+    400086: CheetahRThigh
+    400088: CheetahRToe1
+    400090: CheetahRToe2
+    400092: CheetahRToe3
+    400094: CheetahRUpperarm
+    400096: CheetahSpine1
+    400098: CheetahSpine2
+    400100: CheetahSpine3
+    400102: CheetahSpine4
+    400104: CheetahTail1
+    400106: CheetahTail2
+    400108: CheetahTail3
+    400110: CheetahTail4
+    400112: CheetahTail5
+    400114: CheetahTail6
+    400116: CheetahTail7
+    400118: CheetahTail8
+    400120: cheetahTeeth
+    4300000: cheetahTeeth
+    4300002: cheetahEyes
+    4300004: cheetahEyelids
+    4300006: cheetahBody
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: cheetahBody
+    13700002: cheetahEyelids
+    13700004: cheetahEyes
+    13700006: cheetahTeeth
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
